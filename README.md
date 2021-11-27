@@ -1,6 +1,6 @@
 # Kickstarter_analysis
 ## Overview of the Project
-### In this project, I am helping my client Louise whose play fever nearly reached its fundraising goal. Using data on how different campaigned performed considering their launch dates and fundraising goals, we will be able to give Louise more perspective on what makes a project more likely to be successful. 
+### In this project, I am helping my client Louise whose play "Fever" nearly reached its fundraising goal. Using data on how different campaigned performed considering their launch dates and fundraising goals, we will be able to give Louise more perspective on what makes a project more likely to be successful. I have attached an Excel file that I performed the analysis on. 
 [Kickstarter_Challenge.xlsx.zip](https://github.com/alidemakos/Module_1_Challenge/files/7612371/Kickstarter_Challenge.xlsx.zip)
 ## Deliverable 1
 ### First, I analyze the outcomes based on launch date. To create this “Outcomes Based on Launch Date” chart, I created a pivot table that filtered by Parent Category and Years. Parent Category was given in the original data set, and Years was found using the Years function and Date Created Conversion. The Rows of the Pivot Table list the months of the year and the columns show the possible outcomes: successful, failed, and canceled. The pivot table values reveal a total count of each outcome. By filtering the Pivot Table by theatre, we get information that is more relevant to Louise’s campaign.
