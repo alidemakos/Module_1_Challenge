@@ -1,4 +1,4 @@
-# Module_1_Challenge
+# Kickstarter_analysis
 ## Overview of the Project
 ### In this project, I am helping my client Louise whose play fever nearly reached its fundraising goal. Using data on how different campaigned performed considering their launch dates and fundraising goals, we will be able to give Louise more perspective on what makes a project more likely to be successful. 
 [Kickstarter_Challenge.xlsx.zip](https://github.com/alidemakos/Module_1_Challenge/files/7612371/Kickstarter_Challenge.xlsx.zip)
